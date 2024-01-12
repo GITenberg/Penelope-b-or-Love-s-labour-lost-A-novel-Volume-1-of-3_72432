@@ -1,0 +1,32 @@
+_repo: Penelope-b-or-Love-s-labour-lost-A-novel-Volume-1-of-3_72432
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Scargill, William Pitt
+    alias: Scargill, W. Pitt (William Pitt)
+    birthdate: 1787
+    deathdate: 1836
+    gutenberg_agent_id: '40919'
+    url: http://www.gutenberg.org/2009/agents/40919
+description: ''
+gutenberg_issued: '2023-12-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72432'
+language: en
+pgterms:marc905: 20220121061510scargill
+pgterms:marc906: '1828'
+pgterms:marc907: GB
+production_note: Lisa Corcoran, Tim Lindell, Heather Clark and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This file was produced from images generously
+  made available by The Internet Archive/American Libraries.)
+publication_note: '  $aLondon :$bHunt & Clarke, $c1828.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'Penelope : $b or, Love''s labour lost. A novel. Volume 1 (of 3)'
+url: http://www.gutenberg.org/ebooks/72432
